@@ -3,7 +3,6 @@ The digital business card project is a static web application built using the fr
 
 Can access on: https://digital-business-card-steph.netlify.app/
 
-<br></br>
 ![Business Card](./images/business-card.png?raw=true "Business Card")
 <br></br>
 
