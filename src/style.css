@@ -1,0 +1,143 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #23252C;
+  color: white;
+  font-family: Inter, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #1A1B21;
+  width: 317px;
+  margin-block: 44px;
+  margin-left: 116px;
+  margin-right: 116px;
+  border-radius: 10px;
+}
+
+.info {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.info > img {
+  width: 317px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.info > p {
+  text-align: center;
+  margin: 0;
+}
+
+.name {
+  font-size: 25px;
+  font-weight: 700;
+  padding-top: 10px;
+  margin-bottom: -3px !important;
+}
+
+.role {
+  font-size: 12px;
+  font-weight: 400;
+  color: #F3BF99;
+}
+
+.website {
+  font-size: 10px;
+  font-weight: 400;
+  padding-top: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.buttons > a {
+  margin-left: 14px;
+  border-radius: 6px;
+  padding-block: 6px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.btn-linkedin {
+  background-color: #5093E2 !important;
+  color: white;
+}
+
+.btn-linkedin:hover {
+  color: white;
+}
+
+.email-logo {
+  width: 14px;
+  margin-right: 8px;
+}
+
+.linkedin-logo {
+  width: 14px;
+  margin-right: 8px;
+}
+
+.about-page {
+  margin-left: 34px;
+  margin-top: 30px;
+}
+
+.about-page > h1 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.about-page > p {
+  font-size: 10px;
+  font-weight: 400;
+  max-width: 260px;
+  font-family: Inter;
+}
+
+.interests-page {
+  margin-left: 34px;
+  margin-top: 5px;
+}
+
+.interests-page > h1 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.interests-page > p {
+  font-size: 10px;
+  font-weight: 400;
+  max-width: 260px;
+  margin-bottom: 30px;
+}
+
+.footer-logos {
+  background-color: #161619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 64px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.footer-logos > a > img {
+  width: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
