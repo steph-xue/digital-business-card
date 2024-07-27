@@ -1,7 +1,7 @@
 # Digital Business Card Project
-The react info project is a static web application built using the front-end JavaScript library, React. The web application displays some fun facts about React.
-<br></br>
+The digital business card project is a static web application built using the front-end JavaScript library, React. The digital business card displays some information about myself and my interests, with links to my email, linkedin, and other social media platforms including twitter, facebook, instagram and github.
 
+<br></br>
 Can access on: https://digital-business-card-steph.netlify.app/
 
 ![Business Card](./images/business-card.png?raw=true "Business Card")
