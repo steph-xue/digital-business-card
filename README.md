@@ -4,7 +4,7 @@ The react info project is a static web application built using the front-end Jav
 
 Can access on: https://digital-business-card-steph.netlify.app/
 
-![Page](./images/page.png?raw=true "Page")
+![Business Card](./images/page.png?raw=true "business-card")
 <br></br>
 
 ## Languages & Frameworks
