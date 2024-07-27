@@ -1,11 +1,12 @@
 import React from "react"
+import profile from "../images/profile-steph.jpg"
 import email from "../images/email.png"
 import linkedin from "../images/linkedin.png"  
 
 function Info() {
     return (
         <div className="info">
-            <img className="profilepic" src="../images/profile-steph.jpg" alt="profile-steph" />
+            <img className="profilepic" src={profile} alt="profile-steph" />
             <p className="name">Stephanie Xue</p>
             <p className="role">UBC BCS Student | Pharmacist</p>
             <p className="website">www.github.com/steph-xue</p>

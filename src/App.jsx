@@ -1,8 +1,8 @@
 import React from "react"
-import Info from "./components/Info.js"
-import About from "./components/About.js"
-import Interests from "./components/Interests.js"
-import Footer from "./components/Footer.js"
+import Info from "./components/Info.jsx"
+import About from "./components/About.jsx"
+import Interests from "./components/Interests.jsx"
+import Footer from "./components/Footer.jsx"
 
 function App() {
     return (
