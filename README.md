@@ -1,5 +1,5 @@
 # Digital Business Card Project
-The digital business card project is a static web application built using the front-end JavaScript library, React. The digital business card displays some information about myself and my interests, with links to my email, linkedin, and other social media platforms including twitter, facebook, instagram and github.
+The digital business card project is a static website built using the front-end JavaScript library, React. The digital business card displays some information about myself and my interests, with links to my email, linkedin, and other social media platforms including twitter, facebook, instagram and github.
 
 Can access on: https://digital-business-card-steph.netlify.app/
 
@@ -19,9 +19,9 @@ Can access on: https://digital-business-card-steph.netlify.app/
 - The web application can be run on your local server by typing in the command line 'npm run dev'
 
 ## How to Deploy
-- To build out the application for deployment use “npm run build”
+- To build out the website for deployment use “npm run build”
 - To test out the preview before deploying the application use “npm run preview”
-- Deploy the application on your server of choice:
+- Deploy the website on your server of choice:
   - Netlify using the command line
     - Install the Netlify CLI using “npm install -g netlify-cli”
     - Create a new site in Netlify using “ntl init”
