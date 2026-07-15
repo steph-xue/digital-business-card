@@ -5,7 +5,7 @@ function Interests() {
         <div className="interests-page">
             <h1>Interests</h1>
             <p>
-                Passionate about full-stack development, modern web technologies, software architecture, cloud infrastructure, and agentic AI systems.
+                Passionate about full-stack development, modern web technologies, software architecture, cloud infrastructure, machine learning, and agentic AI systems.
             </p>
         </div>
     );
