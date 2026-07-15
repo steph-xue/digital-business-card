@@ -1,28 +1,91 @@
-# Digital Business Card Project
-The digital business card project is a static website built using the front-end JavaScript library, React. The digital business card displays some information about myself and my interests, with links to my email, linkedin, and other social media platforms including twitter, facebook, instagram and github.
+# Digital Business Card
 
-Can access on: https://digital-business-card-steph.netlify.app/
+A personal digital business card built with React, showcasing my profile, background, and interests, with direct links to professional contact points including my email, GitHub, and LinkedIn.
 
-![Business Card](./images/business-card.png?raw=true "Business Card")
-<br></br>
+**[View Live Demo](https://digital-business-card-steph.netlify.app/)**
 
-## Languages & Frameworks
-- The react info project was created using React, a front-end JavaScript web libary
-  - React uses JSX, which is an XML-like extension to the JavaScript language that lets you write HTML-like markup inside a JavaScript file
-- Vite was also used as a build tool to create the website
-  - Vite is a local development server that has support for frameworks like React and Vue.js, and programming languages like JavaScript and TypeScript 
+<br>
 
-## How to Run Locally
-- Install the latest version of node.js (JavaScript runtime server)
-    - Check the version using the command
-        - ```node --version```
-- Install the latest version of npm (JavaScript package manager)
-    - Check the version using the command
-        - ```npm --version```
-- Clone the repository from github by typing in the command line
-    - HTTPS: ```git clone https://github.com/steph-xue/digital-business-card.git```
-    - SSH: ```git clone git@github.com:steph-xue/digital-business-card.git```
-- Install any dependencies by using the command
-    - ```npm install```
-- The web application can be run on your local server by typing the command
-    - ```npm run dev```
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [How It Works](#how-it-works)
+- [Getting Started](#getting-started)
+- [Future Improvements](#future-improvements)
+
+<br>
+
+## Overview
+
+This project is a personal digital business card, built to practice component composition in React. It is built with React, JavaScript, HTML, CSS, and Bootstrap, and bundled with Vite. The business card is assembled from four components, a profile section, an about section, an interests section, and a footer of social links, each rendered independently and composed together into a single layout.
+
+<br>
+
+## Features
+
+### Business Card
+The business card displays my profile photo, name, and profession at the top, along with buttons for professional contact, including email and LinkedIn, as well as a direct link to my GitHub profile. Below that, an about section gives a short written bio, and an interests section lists my professional interests. A footer at the bottom includes icon buttons linking out to my other social media profiles, including Twitter, Facebook, Instagram, and GitHub.
+
+<p align="center"><img src="./images/business-card.png?raw=true" alt="Digital Business Card" width="700"></p>
+
+<br>
+
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React, JavaScript, HTML, CSS, Bootstrap |
+| Build Tool | Vite |
+
+<br>
+
+## How It Works
+
+The business card is composed from four independent components, a profile section, an about section, an interests section, and a footer, all rendered together from a single root component. Each component is self contained and only responsible for its own section of content, so the layout can be rearranged or a section replaced without affecting the others. Bootstrap provides the styling for the email and LinkedIn buttons in the profile section. Vite handles the local development server and production build, compiling the React components into files that can be deployed anywhere.
+
+<br>
+
+## Getting Started
+
+Follow the steps below to set up and run the application on your own machine.
+
+**Prerequisites**
+
+Make sure Node.js and npm are installed before you begin. You can check both by running the commands below, which should each print a version number.
+```bash
+node --version
+npm --version
+```
+
+**1. Clone the repository**
+
+This downloads a copy of the project to your computer and moves you into the project folder.
+```bash
+git clone https://github.com/steph-xue/digital-business-card.git
+cd digital-business-card
+```
+
+**2. Install the dependencies**
+
+This installs React and everything else the project needs to run.
+```bash
+npm install
+```
+
+**3. Start the development server**
+
+This runs the application locally with Vite.
+```bash
+npm run dev
+```
+
+Once the server is running, open the local URL shown in the terminal to start using the application.
+
+<br>
+
+## Future Improvements
+Several enhancements are planned to extend the functionality of the application:
+- A downloadable PDF or vCard version of the business card
+- A contact form instead of a plain email link
+- A dark mode toggle for the business card
