@@ -1,6 +1,6 @@
 # Digital Business Card
 
-A personal digital business card, showcasing my profile, background, and interests, with direct links to professional contact points including my email, GitHub, and LinkedIn.
+A personal digital business card web application, showcasing my profile, background, and interests, with direct links to professional contact points including my email, GitHub, and LinkedIn.
 
 **[View Live Demo](https://digital-business-card-steph.netlify.app/)**
 
