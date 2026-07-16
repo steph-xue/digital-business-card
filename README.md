@@ -11,8 +11,8 @@ A web application that functions as a digital business card, presenting my backg
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
 - [Future Improvements](#future-improvements)
+- [Getting Started](#getting-started)
 
 <br>
 
@@ -44,6 +44,14 @@ The business card displays my profile photo, name, and profession at the top, al
 
 The business card is composed from four independent components, a profile section, an about section, an interests section, and a footer, all rendered together from a single root component. Each component is self contained and only responsible for its own section of content, so the layout can be rearranged or a section replaced without affecting the others. Bootstrap provides the styling for the email and LinkedIn buttons in the profile section. Vite handles the local development server and production build, compiling the React components into files that can be deployed anywhere.
 
+<br>
+
+## Future Improvements
+Several enhancements are planned to extend the functionality of the application:
+- A downloadable PDF or vCard version of the business card
+- A contact form instead of a plain email link
+- A dark mode toggle for the business card
+  
 <br>
 
 ## Getting Started
@@ -81,11 +89,3 @@ npm run dev
 ```
 
 Once the server is running, open the local URL shown in the terminal to start using the application.
-
-<br>
-
-## Future Improvements
-Several enhancements are planned to extend the functionality of the application:
-- A downloadable PDF or vCard version of the business card
-- A contact form instead of a plain email link
-- A dark mode toggle for the business card
