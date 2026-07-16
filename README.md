@@ -1,6 +1,6 @@
 # Digital Business Card
 
-A web application that works as a personal digital business card, showcasing my profile, background, and interests, with direct links to professional contact points including my email, GitHub, and LinkedIn.
+A web application that functions as a digital business card, presenting my background, interests, and professional information in a single, organized interface. It also provides direct links to my email, GitHub, and LinkedIn for easy access to my work and contact details.
 
 **[View Live Demo](https://digital-business-card-steph.netlify.app/)**
 
@@ -18,7 +18,7 @@ A web application that works as a personal digital business card, showcasing my 
 
 ## Overview
 
-This project is a personal digital business card, built to practice component composition in React. It is built with React, JavaScript, HTML, CSS, and Bootstrap, and bundled with Vite. The business card is assembled from four components, a profile section, an about section, an interests section, and a footer of social links, each rendered independently and composed together into a single layout.
+This project presents a digital business card that brings together my background, interests, and professional contact information in a single interface. It is built with React, JavaScript, HTML, CSS, and Bootstrap, and uses Vite as the build tool. The layout is organized into four reusable components: a profile section, an about section, an interests section, and a footer with links to my email, GitHub, and LinkedIn. These components are combined into a cohesive card that keeps the content clear, structured, and easy to navigate.
 
 <br>
 
