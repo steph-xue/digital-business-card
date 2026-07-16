@@ -27,7 +27,7 @@ This project is a personal digital business card, built to practice component co
 ### Business Card
 The business card displays my profile photo, name, and profession at the top, along with buttons for professional contact, including email and LinkedIn, as well as a direct link to my GitHub profile. Below that, an about section gives a short written bio, and an interests section lists my professional interests. A footer at the bottom includes icon buttons linking out to my other social media profiles, including Twitter, Facebook, Instagram, and GitHub.
 
-<p align="center"><img src="./images/business-card.png?raw=true&v=2" alt="Digital Business Card" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/steph-xue/digital-business-card/dcab146/images/business-card.png" alt="Digital Business Card" width="700"></p>
 
 <br>
 
