@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  A web application that works as a personal digital business card with direct links to professional contact points.
+  A web application that functions as a personal digital business card with direct links to my professional contact points.
 </h4>
 
 <p align="center">
