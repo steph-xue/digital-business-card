@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  A web application that functions as a personal digital business card with direct links to my professional contact points.
+  A web application that functions as a personal digital business card, presenting my background, professional interests, and direct professional contact points
 </h4>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## Overview
 
-This project presents a personal digital business card that brings together my background, professional interests, and contact information in a single organized interface. It is built with React, JavaScript, HTML, and CSS and uses Vite as the build tool. The application is divided into reusable components for the profile, About, Interests, and footer sections. It displays my photo, name, profession, biography, professional interests, and direct links to my email and social media profiles, keeping the information clear and easily accessible.
+This project presents a personal digital business card that brings together my background, professional interests, and contact information in a single organized interface. It is built with React, JavaScript, HTML, and CSS and uses Vite as the build tool. The application is divided into reusable components for the profile, about, interests, and footer sections. It displays my photo, name, profession, biography, professional interests, and direct links to my email and social media profiles, keeping the information clear and easily accessible.
 
 <br>
 
