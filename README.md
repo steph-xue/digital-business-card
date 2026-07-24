@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img src="./images/business-card.png?raw=true" alt="Digital Business Card" width="450">
+  <img src="docs/screenshots/business-card.png?raw=true" alt="Digital Business Card" width="450">
 </p>
 
 <p align="center">
