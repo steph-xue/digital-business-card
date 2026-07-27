@@ -29,7 +29,7 @@
 
 ## Overview
 
-This project presents a personal digital business card that brings together my background, professional interests, and contact information in a single organized interface. Built with React, JavaScript, HTML, and CSS, uses Vite as the build too, and is deployed on Netlify for cloud hosting, the application is divided into reusable components for the profile, about, interests, and footer sections. It displays my photo, name, profession, biography, professional interests, with direct links to my email and social media profiles, keeping the information clear and easily accessible.
+This project presents a personal digital business card that brings together my background, professional interests, and contact information in a single organized interface. It is built with React, JavaScript, HTML, and CSS, uses Vite as the build tool, and is deployed on Netlify for cloud hosting. The application is divided into reusable components for the profile, about, interests, and footer sections. It displays my photo, name, profession, biography, professional interests, with direct links to my email and social media profiles, keeping the information clear and easily accessible.
 
 <br>
 
