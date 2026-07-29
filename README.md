@@ -54,7 +54,7 @@ The business card displays my profile photo, name, and profession at the top, al
 
 ## How It Works
 
-The business card is composed from four independent components, a profile section, an about section, an interests section, and a footer, all rendered together from a single root component. Each component is self contained and only responsible for its own section of content, so the layout can be rearranged or a section replaced without affecting the others. Bootstrap provides the styling for the email and LinkedIn buttons in the profile section. 
+The business card is composed from four independent components, a profile section, an about section, an interests section, and a footer, all rendered together from a single root component. Each component is self contained and only responsible for its own section of content, so the layout can be rearranged or a section replaced without affecting the others. Bootstrap provides the styling for the different profile components. 
 
 <br>
 
