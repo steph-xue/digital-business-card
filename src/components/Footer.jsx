@@ -1,3 +1,4 @@
+// Displays social media icon links
 function Footer() {
     return (
         <div className="footer-logos">

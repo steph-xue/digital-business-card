@@ -1,3 +1,4 @@
+// Displays a short biography
 function About() {
     return (
         <div className="about-page">

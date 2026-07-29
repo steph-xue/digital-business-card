@@ -1,3 +1,4 @@
+// Displays a list of professional interests
 function Interests() {
     return (
         <div className="interests-page">

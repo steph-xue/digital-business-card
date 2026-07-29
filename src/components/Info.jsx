@@ -1,3 +1,4 @@
+// Displays the profile photo, name, role, and contact buttons
 function Info() {
     return (
         <div className="info">

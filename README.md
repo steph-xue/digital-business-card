@@ -38,7 +38,7 @@ This project presents a personal digital business card that brings together my b
 ### Business Card
 The business card displays my profile photo, name, and profession at the top, along with buttons for professional contact, including email and LinkedIn, as well as a direct link to my GitHub profile. Below that, an about section gives a short written bio, and an interests section lists my professional interests. A footer at the bottom includes icon buttons linking out to my other social media profiles, including Twitter, Facebook, Instagram, and GitHub.
 
-<p align="center"><img src="https://raw.githubusercontent.com/steph-xue/digital-business-card/dcab146/images/business-card.png" alt="Digital Business Card" width="700"></p>
+<p align="center"><img src="docs/screenshots/business-card.png?raw=true" alt="Digital Business Card" width="700"></p>
 
 <br>
 
@@ -82,7 +82,7 @@ npm --version
 
 <br>
 
-**1. Clone the repository**
+**1. Clone the Repository**
 
 This downloads a copy of the project to your computer and moves you into the project folder.
 ```bash
@@ -90,14 +90,14 @@ git clone https://github.com/steph-xue/digital-business-card.git
 cd digital-business-card
 ```
 
-**2. Install the dependencies**
+**2. Install the Dependencies**
 
-This installs React and everything else the project needs to run.
+This installs all dependencies the project needs to run.
 ```bash
 npm install
 ```
 
-**3. Start the development server**
+**3. Start the Development Server**
 
 This runs the application locally with Vite.
 ```bash
